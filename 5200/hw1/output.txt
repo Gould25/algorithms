@@ -1,0 +1,18 @@
+output for n = 15 b = 2 to 13
+
+n = 15 b = 2 false
+n = 15 b = 3 false
+n = 15 b = 4 true
+n = 15 b = 5 false
+n = 15 b = 6 false
+n = 15 b = 7 false
+n = 15 b = 8 false
+n = 15 b = 9 false
+n = 15 b = 10 false
+n = 15 b = 11 true
+n = 15 b = 12 false
+n = 15 b = 13 false
+
+output for n = 27 b = 18
+
+n = 27 b = 18 false

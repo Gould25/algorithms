@@ -1,0 +1,31 @@
+Original Array size = 12
+
+5 16 64 39 28 3 22 9 33 7 31 45
+
+Parameters used =
+Max Element = 64
+The T value = 9
+The shift = 9
+The parameters used to place all keys in the 2d array[x][y] =
+x = element / 9
+y = element % 9
+x = 64 / 9 = 7
+y = 64 % 9 = 1
+Key 36 not in original array but if it was the same parameters would be used
+
+2D Array size = 9 x 9
+
+* * * 3 * 5 * 7 *
+9 * * * * * * 16 *
+* * * * 22 * * * *
+* 28 * * 31 * 33 * *
+* * * 39 * * * * *
+45 * * * * * * * *
+* * * * * * * * *
+* 64 * * * * * * *
+* * * * * * * * *
+
+Hashed Array size = 81
+
+* * * 3 * 5 * 7 * 9 * * * * * * 16 * * * * * 22 * * * * * 28 * * 31 * 33 * * * * * 39
+* * * * * 45 * * * * * * * * * * * * * * * * * * 64 * * * * * * * * * * * * * * * *

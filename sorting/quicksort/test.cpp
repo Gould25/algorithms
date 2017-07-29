@@ -1,4 +1,5 @@
-/***** test for function *****/
+/***** test for function *****
+compile: g++ -std=c++11 *.cpp */
 
 #include <iostream>
 #include <algorithm>
